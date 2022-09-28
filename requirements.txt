@@ -4,3 +4,5 @@ pydantic==1.10.2
 requests==2.26.0
 Scrapy==2.6.2
 w3lib==2.0.1
+cryptography<38
+uvicorn
